@@ -6,7 +6,7 @@
 -   
 -  <h2>Conecte-se comigo</h2>
  <img align="left" alt="henrique-bueno" heigth="75" width="105" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC"/>
-   <h2>[https://www.linkedin.com/in/kaio-rapanos-ab553416b/<br/><br/>](https://www.linkedin.com/feed/)
+   <h2>(https://www.linkedin.com/feed/)
 
 
 - <div align="center">
