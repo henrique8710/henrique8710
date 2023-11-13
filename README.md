@@ -12,7 +12,7 @@
 
 
 <div style="display: inline_block"><br>
- <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+ <img height=40px src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
   
 </div>
   
